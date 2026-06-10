@@ -69,14 +69,3 @@ node .
 ```
 
 ---
-
-## Features
-
-- **Server Creation**: Easily create and manage servers.
-- **User Creation**: Manage users with a robust user system.
-- **Admin Panel**: Powerful admin tools for managing your services.
-- **Store**: Integrated store for handling purchases and upgrades.
-- **AFK Page**: Dedicated page for AFK users.
-  -------------------------------------------------
-
-This project is licensed under the terms of the repository's license. Check the `LICENSE` file for details.
