@@ -3,7 +3,6 @@
 
 ## Overview
 
-Dashboard is a powerful and efficient dashboard built using **npm**. It provides features like server creation, user management, an admin panel, a store, an AFK page, and the ability to scan available nodes and images.
 
 ---
 
