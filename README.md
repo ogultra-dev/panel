@@ -17,7 +17,21 @@ Before getting started, ensure you have the following installed:
 
 ## Installation
 
-Follow the steps below to set up and run the dashboard:
+Follow the steps below to set up and run the panel:
+
+setup vps
+
+   ```bash
+   curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -
+   ```
+
+   ```bash
+   sudo apt-get install -y nodejs
+   ```
+
+   ```bash
+   curl -fsSL https://get.docker.com | sudo sh
+   ```
 
 1. Clone the repository:
    ```bash
