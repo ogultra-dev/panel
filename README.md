@@ -30,7 +30,7 @@ setup vps
    ```
 
    ```bash
-   curl -fsSL https://get.docker.com | sudo sh
+   curl -sSL https://get.docker.com/ | CHANNEL=stable bash
    ```
 
 1. Clone the repository:
